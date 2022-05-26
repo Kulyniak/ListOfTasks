@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\TestDB\\TestDB.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\TestDB\\TestDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\TestDB\\TestDB.csproj",
+        "projectName": "TestDB",
+        "projectPath": "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\TestDB\\TestDB.csproj",
+        "packagesPath": "C:\\Users\\Vasyl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\TestDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vasyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList.DAL\\ToDoList.DAL.csproj": {
+                "projectPath": "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList.DAL\\ToDoList.DAL.csproj"
+              },
+              "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList\\ToDoList.csproj": {
+                "projectPath": "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList\\ToDoList.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList.BLL\\ToDoList.BLL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList.BLL\\ToDoList.BLL.csproj",
+        "projectName": "ToDoList.BLL",
+        "projectPath": "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList.BLL\\ToDoList.BLL.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList.DAL\\ToDoList.DAL.csproj": {
+                "projectPath": "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList.DAL\\ToDoList.DAL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList.DAL\\ToDoList.DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList.DAL\\ToDoList.DAL.csproj",
+        "projectName": "ToDoList.DAL",
+        "projectPath": "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList.DAL\\ToDoList.DAL.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList\\ToDoList.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList\\ToDoList.csproj",
+        "projectName": "ToDoList",
+        "projectPath": "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList\\ToDoList.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList.BLL\\ToDoList.BLL.csproj": {
+                "projectPath": "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList.BLL\\ToDoList.BLL.csproj"
+              },
+              "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList.DAL\\ToDoList.DAL.csproj": {
+                "projectPath": "C:\\Users\\Vasyl\\Desktop\\Education_ToDoList-master\\ToDoList.DAL\\ToDoList.DAL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

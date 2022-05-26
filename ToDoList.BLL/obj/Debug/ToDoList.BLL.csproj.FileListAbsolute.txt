@@ -1,0 +1,16 @@
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\bin\Debug\ToDoList.BLL.dll.config
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\bin\Debug\ToDoList.BLL.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\bin\Debug\ToDoList.BLL.pdb
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\bin\Debug\log4net.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\bin\Debug\Notifications.Wpf.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\bin\Debug\ToDoList.DAL.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\bin\Debug\ToDoList.DAL.pdb
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\bin\Debug\ToDoList.DAL.dll.config
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\bin\Debug\log4net.xml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\obj\Debug\ToDoList.BLL.csproj.AssemblyReference.cache
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\obj\Debug\ToDoList.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\obj\Debug\ToDoList.BLL.csproj.CopyComplete
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\obj\Debug\ToDoList.BLL.dll
+C:\Users\Vasyl\Desktop\Education_ToDoList-master\ToDoList.BLL\obj\Debug\ToDoList.BLL.pdb
